@@ -1,0 +1,33 @@
+baseURL = 'https://pvizc.cc/'
+languageCode = 'es'
+title = 'Entropía Razonada'
+theme = 'nostyleplease'
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  subtitle = 'Intentos de entender la tecnología, la economía y el sentido en tiempos de máquina.'
+  
+[markup.goldmark.renderer]
+  unsafe = true
+  
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Sobre mí"
+    url = "/sobre-mi/"
+    weight = 3
+  [[menu.main]]
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 4

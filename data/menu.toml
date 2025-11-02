@@ -1,0 +1,9 @@
+# data/menu.toml
+[[entries]]
+title = "Artículos"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "Mostrar más..."
+  show_more_url = "posts"
