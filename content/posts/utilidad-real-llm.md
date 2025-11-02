@@ -1,6 +1,6 @@
 +++
-date = '2025-10-27T22:38:59+01:00'
-draft = true
+date = '2025-10-31T22:38:59+01:00'
+draft = false
 title = 'La ilusión de la certeza: por qué un modelo de lenguaje no sabe lo que dice'
 +++
 Los modelos de lenguaje como ChatGPT o Gemini se han convertido en herramientas ubicuas. Generan textos que parecen razonados, informados, incluso sabios. Pero bajo esa superficie fluida se esconde una tensión profunda: ¿podemos considerar verdaderas las afirmaciones de un sistema que no tiene noción alguna de verdad?

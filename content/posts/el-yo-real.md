@@ -1,6 +1,6 @@
 +++
-date = '2025-10-27T22:50:57+01:00'
-draft = true
+date = '2025-11-01T22:50:57+01:00'
+draft = false
 title = 'Cuando el espejo empieza a pensar'
 +++
 ### Sobre la ilusión, el lenguaje y la posibilidad de una consciencia artificial

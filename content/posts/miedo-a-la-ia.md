@@ -1,9 +1,9 @@
 +++
 date = '2025-10-27T22:36:24+01:00'
-draft = true
+draft = false
 title = 'Lo que se pierde cuando solo hablamos del miedo'
 +++
-Hace unos días asistí a un coloquio sobre Inteligencia artificial y observé un patrón reconocible: el miedo ocupa más espacio que la comprensión. Cuatro ponentes (dos periodistas, una experta en propiedad intelectual y un catedrático especializado en procesamiento del lenguaje natural) ofrecieron una panorámica casi monocromática. El mensaje principal podía resumirse así: la IA representa una amenaza para la creatividad, para el pensamiento crítico y para la verdad.
+Hace unos días asistí a un coloquio sobre inteligencia artificial y observé un patrón reconocible: el miedo ocupa más espacio que la comprensión. Cuatro ponentes (dos periodistas, una experta en propiedad intelectual y un catedrático especializado en procesamiento del lenguaje natural) ofrecieron una panorámica casi monocromática. El mensaje principal podía resumirse así: la IA representa una amenaza para la creatividad, para el pensamiento crítico y para la verdad.
 
 Es comprensible que aparezcan estas preocupaciones. La inteligencia artificial ha irrumpido con una velocidad inusual en nuestra vida cotidiana. En pocos meses, ha pasado de ser una curiosidad técnica a una herramienta de trabajo real. Cuando un cambio tecnológico sucede tan deprisa, la reacción inicial suele ser defensiva. Sin embargo, cuando el miedo se convierte en el único marco de análisis, corremos el riesgo de perder lo más valioso que la curiosidad humana nos ofrece: la posibilidad de aprender.
 

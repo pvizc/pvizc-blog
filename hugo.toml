@@ -9,7 +9,7 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  subtitle = 'Intentos de entender la tecnología, la economía y el sentido en tiempos de máquina.'
+  subtitle = 'Apuntes incompletos sobre tecnología, economía y sentido en la era de la máquina.'
   
 [markup.goldmark.renderer]
   unsafe = true

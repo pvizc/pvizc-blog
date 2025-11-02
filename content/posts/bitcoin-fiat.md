@@ -1,6 +1,6 @@
 +++
 date = '2024-05-22T20:22:23+01:00'
-draft = true
+draft = false
 title = 'El dinero que se disuelve: por qué nació Bitcoin y qué nos dice sobre el valor real del ahorro'
 +++
 > “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
