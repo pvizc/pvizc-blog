@@ -1,4 +1,4 @@
-baseURL = 'https://pvizc.cc/'
+baseURL = 'https://blog.pvizc.cc/'
 languageCode = 'es'
 title = 'Entropía Razonada'
 theme = 'nostyleplease'
